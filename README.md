@@ -2,6 +2,9 @@
 Simple example of docker use
 
 ---
+
+* Run and create service on the host machine
+
 ```shell script
 :> /etc/systemd/system/my-project.service
 systemctl daemon-reload
