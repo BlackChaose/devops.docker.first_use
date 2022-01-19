@@ -2,6 +2,11 @@
 Simple example of docker use
 
 ---
+**requirements:**
+* Linux
+* Docker
+
+---
 
 * Run and create service on the host machine
 
