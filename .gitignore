@@ -1,4 +1,2 @@
-'Лабораторная работа_ введение в Docker с нуля. Ваш первый микросервис _ Хабр.pdf'/
-'Основы Docker за Х часов и Y дней _ Хабр.pdf'/
-'Dockerfile Cheat Sheet - Kapeli.pdf'/
+*.pdf
 .idea/
